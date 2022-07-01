@@ -2,3 +2,9 @@ body {
   margin: 0;
   overflow: hidden;
 }
+p {
+  position: fixed;
+  z-index: 1;
+  color: aqua;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
