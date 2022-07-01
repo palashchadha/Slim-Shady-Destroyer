@@ -13,4 +13,4 @@ Simple 2d shooter built using canvas and javascript . The obstacles move in a ho
 
 ## LINK
 
-[GITHUB PAGE LINK]()
+[GITHUB PAGE LINK](https://palashchadha.github.io/Slim-Shady-Destroyer/)
