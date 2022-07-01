@@ -8,3 +8,6 @@ p {
   color: aqua;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+audio {
+  display: none;
+}
